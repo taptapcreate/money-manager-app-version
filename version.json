@@ -1,0 +1,19 @@
+{
+    "version": "1.0.1",
+    "heading": {
+        "title": "⚠️ Critical Update",
+        "size": "large",
+        "theme": "highlight"
+    },
+    "releaseNotes": [
+        "Optimised app performance",
+        "Budget management and savings goals",
+        "Receipt scanning with OCR (PRO feature)",
+        "Multi-profile support for family budgeting",
+        "Premium tiers with advanced features"
+    ],
+    "minSupportedVersion": "1.0.0",
+    "releaseDate": "2025-12-11",
+    "forceUpdate": false,
+    "critical": false
+}
