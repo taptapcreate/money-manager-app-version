@@ -7,10 +7,7 @@
     },
     "releaseNotes": [
         "Optimised app performance",
-        "Budget management and savings goals",
-        "Receipt scanning with OCR (PRO feature)",
-        "Multi-profile support for family budgeting",
-        "Premium tiers with advanced features"
+        "Fixed minor bugs"
     ],
     "minSupportedVersion": "1.0.0",
     "releaseDate": "2025-12-11",
