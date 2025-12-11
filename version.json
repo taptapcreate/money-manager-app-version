@@ -15,5 +15,5 @@
     "minSupportedVersion": "1.0.0",
     "releaseDate": "2025-12-11",
     "forceUpdate": false,
-    "critical": false
+    "critical": true
 }
